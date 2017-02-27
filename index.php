@@ -31,6 +31,7 @@ function load()
     global $area;
     $url = rtrim($url, "/");
     $urlArray = explode("/", $url);
+    var
 
     $controller = DEFAULT_CONTROLLER;
     $action = DEFAULT_ACTION;
@@ -68,6 +69,7 @@ function load()
 /*
  * Function autoload class
  */
+
 function __autoload($className)
 {
     $paths = array(
