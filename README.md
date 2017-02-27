@@ -1,2 +1,2 @@
-# MVC-sample
-MVC sample
+# MVC
+MVC

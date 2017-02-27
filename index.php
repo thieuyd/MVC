@@ -31,7 +31,6 @@ function load()
     global $area;
     $url = rtrim($url, "/");
     $urlArray = explode("/", $url);
-    var
 
     $controller = DEFAULT_CONTROLLER;
     $action = DEFAULT_ACTION;
