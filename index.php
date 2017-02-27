@@ -68,7 +68,6 @@ function load()
 /*
  * Function autoload class
  */
-
 function __autoload($className)
 {
     $paths = array(
